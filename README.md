@@ -1,1 +1,1 @@
-# Educational_Tetris
+# An Educational Tetris Game
