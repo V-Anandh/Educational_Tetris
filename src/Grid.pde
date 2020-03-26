@@ -77,12 +77,11 @@ class Grid {
       animateCount = 0;
     } else
       loadNext();
-
-
     r1 =(int)random(10);
     r2 =(int)random(10);
     l1 =(int)random(10);
     l2 =(int)random(10);
+    score=+5;
   }
 
   boolean checkLines() {
